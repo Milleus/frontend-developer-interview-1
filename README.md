@@ -46,26 +46,20 @@ Mobile - Menu collapsed
 
 - Your code repository should contain a `README.md` that includes the following:
   - Setup instructions on how to build/run your application; we need to minimally be able to launch and test your solution locally
-- Please use ReactJS to complete this challenge
-- If you are selected for a face-to-face interview, you should be prepared to:
-  - Walk through your code to interviewers
-  - Explain any decisions you’ve made
-  - Modify/extend the solution
+- You can choose to write this in plain HTML, JS and CSS or use any framework you wish to (e.g. ReactJS, VueJS, Svelte, etc)
 
 ## Important!
 
 We will assess your submission holistically (i.e. not just in terms of functionality), including factors such as:
 
 - Readability and code cleanliness
-- Code structure/design, e.g. modularity, testability
+- Code structure/design, e.g. maintainability, scalability, etc
 - Naming/Coding conventions
 - Use of semantic HTML
 - Accessibility considerations
 - Support for major browsers/devices
 
-If you have completed this challenge before the given deadline, please upload your solution to a public git repository and email us a link to your code repository at d3hiring@gmail.com.
-
-If you have any queries, feel free to also email us at d3hiring@gmail.com.
+If you have completed this challenge before the given deadline, please upload your solution to a public git repository and email us a link to your code repository. If you have any queries, feel free to also email us.
 
 ## Credits
 
